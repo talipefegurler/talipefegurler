@@ -1,6 +1,6 @@
 # Hi there, I'm Talip Efe Gürler 👋
 
-🇹🇷 [Türkçe İçerik İçin Tıklayın](#türkçe) | 🇬🇧 [Click for English](#english)
+🇬🇧 [Click for English](#english) | 🇹🇷 [Türkçe İçerik İçin Tıklayın](#türkçe)
 
 ---
 
@@ -8,16 +8,16 @@
 ## 🇬🇧 English
 
 ### About Me / Cover Letter
-Hello! I am an IT & Software enthusiast focused on systems, network management, and software development. I completed my internship at **METU GÜNAM (Center for Solar Energy Research and Applications)**, where I gained hands-on technical experience in IT infrastructure and system support. I am eager to continuously expand my technical knowledge and contribute to innovative team projects.
+Hello! I am an IT & Software enthusiast focused on systems, network management, and software development. I completed my internship at **METU GÜNAM (Center for Solar Energy Research and Applications)**, where I gained hands-on technical experience in IT infrastructure, system management, and support. I am eager to continuously expand my technical skills and contribute to team projects.
 
-### Experience
+### Work Experience
 * **IT Intern** | METU GÜNAM (Center for Solar Energy Research and Applications)
-  * Provided technical support for IT infrastructure and hardware/software operations.
-  * Supported system administration and network configurations.
+  * Provided technical support for IT infrastructure, hardware, and software operations.
+  * Assisted in system administration and network configurations.
 
 ### Skills & Tools
 * **Programming & Web:** C#, SQL, HTML, CSS
-* **Systems & Networking:** Windows Server, Active Directory, VirtualBox, Network & System Support
+* **Systems & Networking:** Windows Server, Active Directory, VirtualBox, System & Network Support
 
 ### Featured Projects
 * **Warehouse Tracking App** - Desktop inventory management application built with C#, VB.NET, and SQL Server.
@@ -31,7 +31,7 @@ Hello! I am an IT & Software enthusiast focused on systems, network management, 
 ### Hakkımda / Ön Yazı
 Merhaba! Sistem, ağ yönetimi ve yazılım geliştirme alanlarına odaklanmış bir BT ve Yazılım meraklısıyım. Stajımı **ODTÜ GÜNAM (Güneş Enerjisi Uygulama ve Araştırma Merkezi)** bünyesinde tamamlayarak sistem ve altyapı alanlarında pratik tecrübe edindim. Teknik bilgimi sürekli geliştirmeye ve projelerde aktif rol almaya istekliyim.
 
-### Deneyim
+### İş Deneyimi
 * **BT Stajyeri** | ODTÜ GÜNAM (Güneş Enerjisi Uygulama ve Araştırma Merkezi)
   * BT altyapısı, donanım ve yazılım süreçlerinde teknik destek sağladım.
   * Sistem yönetimi ve ağ yapılandırma süreçlerine katkıda bulundum.
